@@ -97,6 +97,9 @@
 
 	<!--//底部-->
 	<script>
+
+        alert("123:")
+        alert("path:"+request.getContextPath())
 tabs("#tab", "active", "#tab_con");
 </script>
 
